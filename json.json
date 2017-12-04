@@ -109,7 +109,7 @@
 
   "playlists": [{
     "name": "recent-messages",
-    "itemIds": ["20170205", "20170122", "20170115"]
+    "itemIds": ["20170205", "20170122", "20170115", "20170101"]
   }, {
     "name": "music-videos",
     "itemIds": ["00001"]
