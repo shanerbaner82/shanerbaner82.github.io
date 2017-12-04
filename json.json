@@ -99,7 +99,7 @@
         "captions": [],
         "duration": 230,
         "videos": [{
-          "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+          "url": "http://player.theplatform.com/p/IfSiAC/yZRJx2S__8p8/livestream.m3u8",
           "quality": "HD",
           "videoType": "HLS"
         }]
