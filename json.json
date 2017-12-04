@@ -1,0 +1,133 @@
+{
+  "providerName": "Elevation Church",
+  "language": "en-US",
+  "lastUpdated": "2017-02-07T18:12:32.125Z",
+  "tvSpecials":
+
+  [{
+    "id": "20170205",
+    "title": "This is All that Matters",
+    "shortDescription": "All that matters is faith expressed through our love.",
+    "name": "Richard Smith",
+    "role": "Speaker",
+    "thumbnail": "http://hopepoint.s3.amazonaws.com/Sermon-Stills/this-is-all-that-matters.jpg",
+    "genres": ["faith"],
+    "tags": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2015-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 2934,
+      "videos": [{
+        "url": "https://player.vimeo.com/external/202773657.m3u8?s=85a36bc2ad5bc9d8ae53e4157557e550bf28a680",
+        "quality": "HD",
+        "videoType": "HLS"
+      }]
+    }
+  },
+
+    {
+      "id": "20170122",
+      "title": "Do Skeletons Have Hope?",
+      "shortDescription": "God breathes into dry bones and they live.",
+      "thumbnail": "http://hopepoint.s3.amazonaws.com/Sermon-Stills/this-is-all-that-matters.jpg",
+      "genres": ["faith"],
+      "tags": ["faith"],
+      "releaseDate": "2017-01-22",
+      "content": {
+        "dateAdded": "2017-01-23T14:14:54.431Z",
+        "captions": [],
+        "duration": 2766,
+        "videos": [{
+          "url": "https://player.vimeo.com/external/200689337.m3u8?s=dc53fc07783ddfa69c06a929cf4349758b7f1a41",
+          "quality": "HD",
+          "videoType": "HLS"
+        }]
+      }
+    },
+
+    {
+      "id": "20170115",
+      "title": "Impassioned for HIs Glory",
+      "shortDescription": "God's glory is the ultimate goal for the believer.",
+      "thumbnail": "http://hopepoint.s3.amazonaws.com/Sermon-Stills/this-is-all-that-matters.jpg",
+      "genres": ["faith"],
+      "tags": ["faith"],
+      "releaseDate": "2017-01-15",
+      "content": {
+        "dateAdded": "2017-01-16T14:14:54.431Z",
+        "captions": [],
+        "duration": 2525,
+        "videos": [{
+          "url": "https://player.vimeo.com/external/199692563.m3u8?s=e67da309ecb37485fb8b617e72950e53b8df98fb",
+          "quality": "HD",
+          "videoType": "HLS"
+        }]
+      }
+    },
+
+    {
+      "id": "00001",
+      "title": "I Am - Holding on to You",
+      "shortDescription": "The Hope Point Band sings I Am (Holding on to You), music and words by David Crowder and Ed Cash.  © 2013 sixsteps Music",
+      "thumbnail": "http://d38hd6z8oh137c.cloudfront.net/music-video/stillframes/i-am.jpg",
+      "genres": ["faith"],
+      "tags": ["faith"],
+      "releaseDate": "2017-01-15",
+      "content": {
+        "dateAdded": "2017-01-16T14:14:54.431Z",
+        "captions": [],
+        "duration": 2525,
+        "videos": [{
+          "url": "https://player.vimeo.com/external/203292875.m3u8?s=2f3adfcff8a06ac1257f60c9df3b096307fbbd26",
+          "quality": "HD",
+          "videoType": "HLS"
+        }]
+      }
+    },
+
+    {
+      "id": "20170101",
+      "title": "Live Stream",
+      "shortDescription": "Worship with us each Sunday at 10:00 AM EST.",
+      "thumbnail": "https://s3.amazonaws.com/hproku/images/live-stream-1280.png",
+      "genres": ["faith"],
+      "tags": ["live"],
+      "releaseDate": "2016-06-01",
+      "content": {
+        "dateAdded": "2017-02-07T14:14:54.431Z",
+        "captions": [],
+        "duration": 230,
+        "videos": [{
+          "url": "http://wowzaprodhd32-lh.akamaihd.net/i/8a0e9b4a_1@123879/master.m3u8",
+          "quality": "HD",
+          "videoType": "HLS"
+        }]
+      }
+    }
+  ],
+
+  "playlists": [{
+    "name": "recent-messages",
+    "itemIds": ["20170205", "20170122", "20170115"]
+  }, {
+    "name": "music-videos",
+    "itemIds": ["00001"]
+  }, {
+    "name": "live",
+    "itemIds": ["20170101"]
+  }],
+  "categories": [{
+    "name": "Recent Messages",
+    "playlistName": "recent-messages",
+    "order": "manual"
+  }, {
+    "name": "Live Stream",
+    "playlistName": "live",
+    "order": "manual"
+  }, {
+    "name": "Music Videos",
+    "playlistName": "music-videos",
+    "order": "manual"
+  }]
+}
