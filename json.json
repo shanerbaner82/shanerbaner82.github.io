@@ -109,7 +109,7 @@
 
   "playlists": [{
     "name": "recent-messages",
-    "itemIds": ["20170205", "20170122", "20170115", "20170101"]
+    "itemIds": ["20170205", "20170122", "20170115"]
   }, {
     "name": "music-videos",
     "itemIds": ["00001"]
@@ -122,7 +122,7 @@
     "playlistName": "recent-messages",
     "order": "manual"
   }, {
-    "name": "Live Stream",
+    "name": "The Stream",
     "playlistName": "live",
     "order": "manual"
   }, {
