@@ -1,1 +1,51 @@
-{"providerName":"Elevation Church","language":"en-US","lastUpdated":"2017-02-07T18:12:32.125Z","tvSpecials":[{"id":"14081","title":"Don't Waste Your Angel","shortDescription":"2015-02-05","name":"Pastor Steven Furtick","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1127_Feature-960x540.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":2820,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/K9NbpzYcuQLH\/dont-waste-your-angel.mp4?metafile=false","quality":"HD","videoType":"MP4"}]}},{"id":"14193","title":"Break The Cycle (Pastor Craig Groeschel)","shortDescription":"2015-02-05","name":"Pastor Craig Groeschel","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1119_feature-960x540.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":3060,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/xP1CEupX6UvH\/break-the-cycle.mp4?metafile=false","quality":"HD","videoType":"MP4"}]}}],"playlists":[{"name":"recent-messages","itemIds":["14081","14193"]}],"categories":[{"name":"Recent Messages","playlistName":"recent-messages","order":"manual"}]}
+{
+  "providerName": "Elevation Church",
+  "language": "en-US",
+  "lastUpdated": "2017-02-07T18:12:32.125Z",
+  "tvSpecials": [{
+    "id": "14081",
+    "title": "Don't Waste Your Angel",
+    "shortDescription": "2015-02-05",
+    "name": "Pastor Steven Furtick",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1127_Feature-960x540.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 2820,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/K9NbpzYcuQLH\/dont-waste-your-angel.mp4?metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }, {
+    "id": "14193",
+    "title": "Break The Cycle (Pastor Craig Groeschel)",
+    "shortDescription": "2015-02-05",
+    "name": "Pastor Craig Groeschel",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1119_feature-960x540.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 3060,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/xP1CEupX6UvH\/break-the-cycle.mp4?metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }],
+  "playlists": [{
+    "name": "recent-messages",
+    "itemIds": ["14081", "14193"]
+  }],
+  "categories": [{
+    "name": "Recent Messages",
+    "playlistName": "recent-messages",
+    "order": "manual"
+  }]
+}
