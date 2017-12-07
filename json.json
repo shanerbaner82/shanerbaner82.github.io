@@ -93,7 +93,7 @@
       "shortDescription": "The Hope Point Band sings I Am (Holding on to You), music and words by David Crowder and Ed Cash.  © 2013 sixsteps Music",
       "thumbnail": "http://d38hd6z8oh137c.cloudfront.net/music-video/stillframes/i-am.jpg",
       "genres": ["faith"],
-      "tags": ["faith"],
+      "tags": ["faith", "live"],
       "releaseDate": "2017-01-15",
       "content": {
         "dateAdded": "2017-01-16T14:14:54.431Z",
@@ -120,10 +120,12 @@
   "categories": [{
     "name": "Live Stream",
     "playlistName": "live",
+    "query": "faith",
     "order": "chronological"
   },{
     "name": "Recent Messages",
     "playlistName": "recent-messages",
+    "query": "faith AND live",
     "order": "chronological"
   } ]
 }
