@@ -110,7 +110,7 @@
 
   "playlists": [
     {
-      "name": "ELEVATION LIVE",
+      "name": "live",
       "itemIds": ["20170101"]
     },
     {
@@ -118,12 +118,12 @@
     "itemIds": ["20170205", "20170122", "20170115"]
   }],
   "categories": [{
-    "name": "Recent Messages",
-    "playlistName": "recent-messages",
-    "order": "manual"
-  }, {
     "name": "Live Stream",
     "playlistName": "live",
-    "order": "manual"
-  }]
+    "order": "chronological"
+  },{
+    "name": "Recent Messages",
+    "playlistName": "recent-messages",
+    "order": "chronological"
+  } ]
 }
