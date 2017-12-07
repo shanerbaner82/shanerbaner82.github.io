@@ -119,12 +119,10 @@
   }],
   "categories": [{
     "name": "Live Stream",
-    "playlistName": "live",
     "query": "faith",
     "order": "chronological"
   },{
     "name": "Recent Messages",
-    "playlistName": "recent-messages",
     "query": "faith AND live",
     "order": "chronological"
   } ]
