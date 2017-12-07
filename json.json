@@ -111,9 +111,6 @@
     "name": "recent-messages",
     "itemIds": ["20170205", "20170122", "20170115"]
   }, {
-    "name": "music-videos",
-    "itemIds": ["00001"]
-  }, {
     "name": "live",
     "itemIds": ["20170101"]
   }],
@@ -124,10 +121,6 @@
   }, {
     "name": "Live Stream",
     "playlistName": "live",
-    "order": "manual"
-  }, {
-    "name": "Music Videos",
-    "playlistName": "music-videos",
     "order": "manual"
   }]
 }
