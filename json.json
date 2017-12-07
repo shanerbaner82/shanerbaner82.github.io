@@ -19,7 +19,7 @@
       "captions": [],
       "duration": 2934,
       "videos": [{
-        "url": "https://player.vimeo.com/external/202773657.m3u8?s=85a36bc2ad5bc9d8ae53e4157557e550bf28a680",
+        "url": "http://elevchurus-lh.akamaihd.net/i/ELEVCHUR2_1@138979/master.m3u8",
         "quality": "HD",
         "videoType": "HLS"
       }]
@@ -39,7 +39,7 @@
         "captions": [],
         "duration": 2766,
         "videos": [{
-          "url": "https://player.vimeo.com/external/200689337.m3u8?s=dc53fc07783ddfa69c06a929cf4349758b7f1a41",
+          "url": "http://elevchurus-lh.akamaihd.net/i/ELEVCHUR2_1@138979/master.m3u8",
           "quality": "HD",
           "videoType": "HLS"
         }]
@@ -59,7 +59,7 @@
         "captions": [],
         "duration": 2525,
         "videos": [{
-          "url": "https://player.vimeo.com/external/199692563.m3u8?s=e67da309ecb37485fb8b617e72950e53b8df98fb",
+          "url": "http://elevchurus-lh.akamaihd.net/i/ELEVCHUR2_1@138979/master.m3u8",
           "quality": "HD",
           "videoType": "HLS"
         }]
@@ -79,7 +79,7 @@
         "captions": [],
         "duration": 2525,
         "videos": [{
-          "url": "https://player.vimeo.com/external/203292875.m3u8?s=2f3adfcff8a06ac1257f60c9df3b096307fbbd26",
+          "url": "http://elevchurus-lh.akamaihd.net/i/ELEVCHUR2_1@138979/master.m3u8",
           "quality": "HD",
           "videoType": "HLS"
         }]
@@ -99,7 +99,7 @@
         "captions": [],
         "duration": 230,
         "videos": [{
-          "url": "http://wowzaprodhd32-lh.akamaihd.net/i/8a0e9b4a_1@123879/master.m3u8",
+          "url": "http://elevchurus-lh.akamaihd.net/i/ELEVCHUR2_1@138979/master.m3u8",
           "quality": "HD",
           "videoType": "HLS"
         }]
