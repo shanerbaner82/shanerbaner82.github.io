@@ -1,1 +1,148 @@
-{"providerName":"Elevation Church 10","language":"en-US","lastUpdated":"2017-02-07T18:12:32.125Z","tvSpecials":[{"id":"14081","title":"Don't Waste Your Angel","shortDescription":"God\u2019s given us His protection. But it\u2019s up to us to make sure we\u2019re not wasting it.","name":"Pastor Steven Furtick","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1127_Feature-960x540.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":2820,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/K9NbpzYcuQLH\/dont-waste-your-angel.mp4?metafile=false","quality":"HD","videoType":"HLS"}]}},{"id":"14252","title":"There's A Catch","shortDescription":"God wants to bless us, but the level we experience that blessing is up to us. Discover how your obedience can\u00a0attract\u00a0God\u2019s blessing.","name":"Pastor Steven Furtick","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1013_feature-960x540.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":2820,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/ZS2rRZVRF3rC\/theresacatch.mp4?metafile=false","quality":"HD","videoType":"HLS"}]}},{"id":"14031","title":"Don\u2019t Blow It!","shortDescription":"We\u2019re all busy, but are we busy doing what really matters? Discover how your priorities could be preventing your progress.","name":"Pastor Steven Furtick","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1106_feature-960x540.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":3000,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/bHaIshRPFaLP\/dontblowit.mp4?metafile=false","quality":"HD","videoType":"HLS"}]}},{"id":"13987","title":"The ConTENtment Commandments","shortDescription":"We all want more from life, making contentment seem out of reach. In The ConTENtment Commandments, Pastor Steven shares ten ways to live a more content life.","name":"Pastor Steven Furtick","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/10\/1030_feature.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":2880,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/sH4mO2_8Cjb_\/thecontentmentcommandments.mp4?metafile=false","quality":"HD","videoType":"HLS"}]}},{"id":"13878","title":"What Are The Chances?","shortDescription":"When our lives feel ordinary, it can be difficult to feel like God is moving. Discover how miracles may be where you least expect them.","name":"Pastor Steven Furtick","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/10\/1023_feature-960x540.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":2640,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/hQJwkQitiDMW\/whatarethechances.mp4?metafile=false","quality":"HD","videoType":"HLS"}]}},{"id":"13821","title":"Disturbing the Peace (Jonathan Josephs)","shortDescription":"Peace may feel far away, but it doesn\u2019t have to. Discover three things that may be disturbing your peace.","name":"Jonathan Joesphs","thumbnail":"https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/10\/1015_feature-960x540.jpg","genres":["faith"],"releaseDate":"2015-02-05","content":{"dateAdded":"2017-02-07T14:14:54.431Z","captions":[],"duration":1800,"videos":[{"url":"http:\/\/link.theplatform.com\/s\/IfSiAC\/JIM62jlG0Dty?mbr=true&metafile=false","quality":"HD","videoType":"HLS"}]}},{"id":"0001","title":"Join us LIVE now!","shortDescription":"Join us LIVE now","thumbnail":"https:\/\/s3.amazonaws.com\/hproku\/images\/live-stream-1280.png","genres":["faith"],"tags":["live"],"releaseDate":"2017-12-08","content":{"dateAdded":"2017-12-08T17:49:44-05:00","captions":[],"duration":3000,"videos":[{"url":"http:\/\/elevchurus-lh.akamaihd.net\/i\/ELEVCHUR2_1@138979\/master.m3u8","quality":"HD","videoType":"MP4"}]}}],"playlists":[{"name":"recent-messages","itemIds":["14081","14252","14031","13987","13878","13821"]},{"name":"live","itemIds":["0001"]}],"categories":[{"name":"Recent Messages","playlistName":"recent-messages","order":"manual"},{"name":"Live Streaming","playlistName":"live","order":"manual"}]}
+{
+  "providerName": "Elevation Church 10",
+  "language": "en-US",
+  "lastUpdated": "2017-02-07T18:12:32.125Z",
+  "tvSpecials": [{
+    "id": "14081",
+    "title": "Don't Waste Your Angel",
+    "shortDescription": "God\u2019s given us His protection. But it\u2019s up to us to make sure we\u2019re not wasting it.",
+    "name": "Pastor Steven Furtick",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1127_Feature-960x540.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 2820,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/K9NbpzYcuQLH\/dont-waste-your-angel.mp4?metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }, {
+    "id": "14252",
+    "title": "There's A Catch",
+    "shortDescription": "God wants to bless us, but the level we experience that blessing is up to us. Discover how your obedience can\u00a0attract\u00a0God\u2019s blessing.",
+    "name": "Pastor Steven Furtick",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1013_feature-960x540.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 2820,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/ZS2rRZVRF3rC\/theresacatch.mp4?metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }, {
+    "id": "14031",
+    "title": "Don\u2019t Blow It!",
+    "shortDescription": "We\u2019re all busy, but are we busy doing what really matters? Discover how your priorities could be preventing your progress.",
+    "name": "Pastor Steven Furtick",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/11\/1106_feature-960x540.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 3000,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/bHaIshRPFaLP\/dontblowit.mp4?metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }, {
+    "id": "13987",
+    "title": "The ConTENtment Commandments",
+    "shortDescription": "We all want more from life, making contentment seem out of reach. In The ConTENtment Commandments, Pastor Steven shares ten ways to live a more content life.",
+    "name": "Pastor Steven Furtick",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/10\/1030_feature.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 2880,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/sH4mO2_8Cjb_\/thecontentmentcommandments.mp4?metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }, {
+    "id": "13878",
+    "title": "What Are The Chances?",
+    "shortDescription": "When our lives feel ordinary, it can be difficult to feel like God is moving. Discover how miracles may be where you least expect them.",
+    "name": "Pastor Steven Furtick",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/10\/1023_feature-960x540.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 2640,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/hQJwkQitiDMW\/whatarethechances.mp4?metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }, {
+    "id": "13821",
+    "title": "Disturbing the Peace (Jonathan Josephs)",
+    "shortDescription": "Peace may feel far away, but it doesn\u2019t have to. Discover three things that may be disturbing your peace.",
+    "name": "Jonathan Joesphs",
+    "thumbnail": "https:\/\/ec-org-2016-elevationdigital.c9users.io\/wp-content\/uploads\/2017\/10\/1015_feature-960x540.jpg",
+    "genres": ["faith"],
+    "releaseDate": "2015-02-05",
+    "content": {
+      "dateAdded": "2017-02-07T14:14:54.431Z",
+      "captions": [],
+      "duration": 1800,
+      "videos": [{
+        "url": "http:\/\/link.theplatform.com\/s\/IfSiAC\/JIM62jlG0Dty?mbr=true&metafile=false",
+        "quality": "HD",
+        "videoType": "MP4"
+      }]
+    }
+  }, {
+    "id": "0001",
+    "title": "Join us LIVE now!",
+    "shortDescription": "Join us LIVE now",
+    "thumbnail": "https:\/\/s3.amazonaws.com\/hproku\/images\/live-stream-1280.png",
+    "genres": ["faith"],
+    "tags": ["live"],
+    "releaseDate": "2017-12-08",
+    "content": {
+      "dateAdded": "2017-12-08T17:54:32-05:00",
+      "captions": [],
+      "duration": 3000,
+      "videos": [{
+        "url": "http:\/\/elevchurus-lh.akamaihd.net\/i\/ELEVCHUR2_1@138979\/master.m3u8",
+        "quality": "HD",
+        "videoType": "HLS"
+      }]
+    }
+  }],
+  "playlists": [{
+    "name": "recent-messages",
+    "itemIds": ["14081", "14252", "14031", "13987", "13878", "13821"]
+  }, {
+    "name": "live",
+    "itemIds": ["0001"]
+  }],
+  "categories": [{
+    "name": "Recent Messages",
+    "playlistName": "recent-messages",
+    "order": "manual"
+  }, {
+    "name": "Live Streaming",
+    "playlistName": "live",
+    "order": "manual"
+  }]
+}
